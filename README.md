@@ -14,6 +14,6 @@ Este Algoritmo fue desarrollado con pseudocódigo el programa PsInt.
 Parte del Bootcamp UDD 
 Desarrollo fullStack C13
 
-Entrega 1 proyecto final Modulo 1.
+Entrega 1 proyecto final Módulo 1.
 
 Marzo, 2024
